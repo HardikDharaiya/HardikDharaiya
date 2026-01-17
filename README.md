@@ -59,5 +59,5 @@ I enjoy building practical, requirement-driven projects and continuously improvi
 
 ## 🔗 Connect With Me
 
-- **LinkedIn:** (www.linkedin.com/in/hardik-dharaiya-150103257)
+- **LinkedIn:** www.linkedin.com/in/hardik-dharaiya-150103257
 - **GitHub:** You are already here 🙂
