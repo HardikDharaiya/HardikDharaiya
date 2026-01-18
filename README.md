@@ -11,31 +11,24 @@ I enjoy building practical, requirement-driven projects and continuously improvi
 - C#, ASP.NET (Web Forms)
 - Java (Core, OOP concepts)
 - PHP
-- Python (Basics)
+- Node.js
+- Express.js
+- Python
 
 **Databases**
 - SQL Server
+- PostgreSQL
 - MySQL
 - SQLite
 - Basic database design & CRUD operations
 
 **Frontend & Tools**
+- React.js
+- Next.js
+- Tailwind CSS
 - HTML, CSS, JavaScript
 - Git & GitHub
-- Visual Studio, VS Code
-
----
-
-## 🚀 Highlighted Projects
-
-- **HardwareProManager (C#)**  
-  Desktop-based system to manage hardware inventory, transactions, and records using structured database connectivity.
-
-- **Fruitkha / LevelUpFood (E-commerce)**  
-  PHP-based e-commerce platforms with user/admin panels, product management, and order workflows.
-
-- **CSharp 2-Tier Connectivity Tutorial**  
-  Beginner-friendly guide demonstrating Insert, Select, Update, and Delete operations using ADO.NET.
+- Visual Studio, VS Code, Git Internals (Rebase, Cherry-pick, Blame), Postman
 
 ---
 
